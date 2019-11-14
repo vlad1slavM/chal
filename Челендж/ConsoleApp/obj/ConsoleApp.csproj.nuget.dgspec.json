@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\vladk\\Desktop\\С#\\Челендж\\ConsoleApp\\ConsoleApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\vladk\\Desktop\\С#\\Челендж\\Challenge\\Challenge.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vladk\\Desktop\\С#\\Челендж\\Challenge\\Challenge.csproj",
+        "projectName": "Challenge",
+        "projectPath": "C:\\Users\\vladk\\Desktop\\С#\\Челендж\\Challenge\\Challenge.csproj",
+        "packagesPath": "C:\\Users\\vladk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vladk\\Desktop\\С#\\Челендж\\Challenge\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vladk\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\vladk\\Desktop\\С#\\Челендж\\ConsoleApp\\ConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vladk\\Desktop\\С#\\Челендж\\ConsoleApp\\ConsoleApp.csproj",
+        "projectName": "ConsoleApp",
+        "projectPath": "C:\\Users\\vladk\\Desktop\\С#\\Челендж\\ConsoleApp\\ConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\vladk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vladk\\Desktop\\С#\\Челендж\\ConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vladk\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\vladk\\Desktop\\С#\\Челендж\\Challenge\\Challenge.csproj": {
+                "projectPath": "C:\\Users\\vladk\\Desktop\\С#\\Челендж\\Challenge\\Challenge.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Z.Expressions.Eval": {
+              "target": "Package",
+              "version": "[2.9.57, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

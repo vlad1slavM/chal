@@ -1,0 +1,28 @@
+C:\Users\vladk\Desktop\Новая папка\Челендж\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.deps.json
+C:\Users\vladk\Desktop\Новая папка\Челендж\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.runtimeconfig.json
+C:\Users\vladk\Desktop\Новая папка\Челендж\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.runtimeconfig.dev.json
+C:\Users\vladk\Desktop\Новая папка\Челендж\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.dll
+C:\Users\vladk\Desktop\Новая папка\Челендж\ConsoleApp\bin\Debug\netcoreapp2.2\Challenge.dll
+C:\Users\vladk\Desktop\Новая папка\Челендж\ConsoleApp\bin\Debug\netcoreapp2.2\Challenge.pdb
+C:\Users\vladk\Desktop\Новая папка\Челендж\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\vladk\Desktop\Новая папка\Челендж\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\vladk\Desktop\Новая папка\Челендж\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\vladk\Desktop\Новая папка\Челендж\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.AssemblyInfo.cs
+C:\Users\vladk\Desktop\Новая папка\Челендж\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.csproj.CopyComplete
+C:\Users\vladk\Desktop\Новая папка\Челендж\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.pdb
+C:\Users\vladk\Desktop\Новая папка\Челендж\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.dll
+C:\Users\vladk\Desktop\Новая папка\Челендж\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.pdb
+C:\Users\vladk\Desktop\С#\Челендж\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.deps.json
+C:\Users\vladk\Desktop\С#\Челендж\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.runtimeconfig.json
+C:\Users\vladk\Desktop\С#\Челендж\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.runtimeconfig.dev.json
+C:\Users\vladk\Desktop\С#\Челендж\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.dll
+C:\Users\vladk\Desktop\С#\Челендж\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.pdb
+C:\Users\vladk\Desktop\С#\Челендж\ConsoleApp\bin\Debug\netcoreapp2.2\Challenge.dll
+C:\Users\vladk\Desktop\С#\Челендж\ConsoleApp\bin\Debug\netcoreapp2.2\Challenge.pdb
+C:\Users\vladk\Desktop\С#\Челендж\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\vladk\Desktop\С#\Челендж\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\vladk\Desktop\С#\Челендж\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\vladk\Desktop\С#\Челендж\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.AssemblyInfo.cs
+C:\Users\vladk\Desktop\С#\Челендж\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.csproj.CopyComplete
+C:\Users\vladk\Desktop\С#\Челендж\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.dll
+C:\Users\vladk\Desktop\С#\Челендж\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.pdb

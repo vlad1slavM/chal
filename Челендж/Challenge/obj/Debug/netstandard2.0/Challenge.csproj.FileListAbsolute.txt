@@ -1,0 +1,18 @@
+C:\Users\vladk\Desktop\Новая папка\Челендж\Challenge\bin\Debug\netstandard2.0\Challenge.deps.json
+C:\Users\vladk\Desktop\Новая папка\Челендж\Challenge\bin\Debug\netstandard2.0\Challenge.dll
+C:\Users\vladk\Desktop\Новая папка\Челендж\Challenge\bin\Debug\netstandard2.0\Challenge.pdb
+C:\Users\vladk\Desktop\Новая папка\Челендж\Challenge\obj\Debug\netstandard2.0\Challenge.csprojAssemblyReference.cache
+C:\Users\vladk\Desktop\Новая папка\Челендж\Challenge\obj\Debug\netstandard2.0\Challenge.csproj.CoreCompileInputs.cache
+C:\Users\vladk\Desktop\Новая папка\Челендж\Challenge\obj\Debug\netstandard2.0\Challenge.AssemblyInfoInputs.cache
+C:\Users\vladk\Desktop\Новая папка\Челендж\Challenge\obj\Debug\netstandard2.0\Challenge.AssemblyInfo.cs
+C:\Users\vladk\Desktop\Новая папка\Челендж\Challenge\obj\Debug\netstandard2.0\Challenge.dll
+C:\Users\vladk\Desktop\Новая папка\Челендж\Challenge\obj\Debug\netstandard2.0\Challenge.pdb
+C:\Users\vladk\Desktop\С#\Челендж\Challenge\bin\Debug\netstandard2.0\Challenge.deps.json
+C:\Users\vladk\Desktop\С#\Челендж\Challenge\bin\Debug\netstandard2.0\Challenge.dll
+C:\Users\vladk\Desktop\С#\Челендж\Challenge\bin\Debug\netstandard2.0\Challenge.pdb
+C:\Users\vladk\Desktop\С#\Челендж\Challenge\obj\Debug\netstandard2.0\Challenge.csprojAssemblyReference.cache
+C:\Users\vladk\Desktop\С#\Челендж\Challenge\obj\Debug\netstandard2.0\Challenge.csproj.CoreCompileInputs.cache
+C:\Users\vladk\Desktop\С#\Челендж\Challenge\obj\Debug\netstandard2.0\Challenge.AssemblyInfoInputs.cache
+C:\Users\vladk\Desktop\С#\Челендж\Challenge\obj\Debug\netstandard2.0\Challenge.AssemblyInfo.cs
+C:\Users\vladk\Desktop\С#\Челендж\Challenge\obj\Debug\netstandard2.0\Challenge.dll
+C:\Users\vladk\Desktop\С#\Челендж\Challenge\obj\Debug\netstandard2.0\Challenge.pdb
